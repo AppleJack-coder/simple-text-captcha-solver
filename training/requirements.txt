@@ -1,0 +1,5 @@
+numpy<=1.18.1
+pillow>=9.4.0
+colormath>=3.0.0
+opencv-python>=4.7.0.68
+tqdm>=4.64.1
